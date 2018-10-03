@@ -1,0 +1,17 @@
+Hello this is sentence. Goodbye.
+Ready, he said. "Why, I asked"
+123.43
+123.2
+einar@uw.edu
+C:\123\wwa\text.txt
+123,123
+123,123.12
+-123
+-12.12
+-123,123.12
+http://asfe.sadf
+https://awef.casd
+~/test.txt
+-2.3%
+$400.12
+$123
